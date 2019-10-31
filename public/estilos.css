@@ -1,0 +1,13 @@
+
+body {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-image: URL("lo.jpg");
+}
+ 
+body, a {
+  font-family: sans-serif
+ 
+}
